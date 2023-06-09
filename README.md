@@ -66,7 +66,7 @@ At the Robotics Club, we firmly believe that every small step we take towards ro
 </table>
 
 
-<h3><b>Visitors:</b></h3>
+<h3><b>Visitors 👋:</b></h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{robotics-club-official-vitc}/count.svg)
 
